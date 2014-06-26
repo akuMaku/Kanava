@@ -11,8 +11,8 @@ Kanava Facebook-page. The projection mapping also reacts to tweets with certain 
 From GitHub you can find the Quartz Composer source code of Kanava. Feel free to use, modify and learn from it. Kanava
 is lisenced under GNU General Public License, version 3.
 
-Facebook.com/KanavaRovaniemi
-Rovaniemi.fi/Kanava
-Vimeo.com/Rovaniemi/Kanava
+www.Facebook.com/KanavaRovaniemi
+www.Rovaniemi.fi/Kanava
+www.Vimeo.com/Rovaniemi/Kanava
 
 aku.merilainen@rovaniemi.fi or aku.merilainen@gmail.com
